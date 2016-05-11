@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Microsoft.Office.Interop.PowerPoint</id>
+    <version>15.0.4420.1017</version>
+    <title>Microsoft.Office.Interop.PowerPoint</title>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>PowerPoint Primary Interop Assembly</description>
+    <summary />
+    <tags>Microsoft Office Interop PowerPoint</tags>
+  </metadata>
+</package>

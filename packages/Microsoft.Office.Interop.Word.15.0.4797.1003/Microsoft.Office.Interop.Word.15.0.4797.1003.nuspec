@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Microsoft.Office.Interop.Word</id>
+    <version>15.0.4797.1003</version>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This the assembly necessary to do Office 2013 Word interop</description>
+    <tags>Microsoft Office Interop Word</tags>
+  </metadata>
+</package>
